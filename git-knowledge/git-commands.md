@@ -29,3 +29,9 @@ git merge [source branch name]
 ```bash
 git merge --abort
 ```
+
+### git rebase once branch is done
+
+```bash
+git pull origin main --rebase
+```
