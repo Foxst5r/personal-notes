@@ -48,4 +48,8 @@ shift + V
 ### start column block mode
 ctrl + V
 
+### undo 
+u
 
+### redo
+ctrl + r
